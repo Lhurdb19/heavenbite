@@ -19,7 +19,7 @@
   align-items: center;
   position: fixed;
   z-index: 100;
-  padding: 0px 100px;
+  padding: 0px 80px;
   background-color:rgba(21, 50, 59, 0.664);
 }
 
@@ -82,7 +82,7 @@
 
     .nav-container > .logo {
         margin: 0%;
-        width: 30%;
+        width: 25%;
         height: fit-content;
     }
     .navbar {
@@ -92,7 +92,7 @@
         justify-content: flex-start;
         align-items: flex-start;
         position: absolute;
-        padding: 5px;
+        padding: 20px;
         top: 60px;
         left: -100%;
         transition: 0.5s ease-in-out;
@@ -138,7 +138,7 @@
 
     .nav-container > .logo {
         margin: 0%;
-        width: 30%;
+        width: 25%;
         height: fit-content;
     }
     .navbar {
@@ -148,7 +148,7 @@
         justify-content: flex-start;
         align-items: flex-start;
         position: absolute;
-        padding: 5px;
+        padding: 20px;
         top: 60px;
         left: -100%;
         transition: 0.5s ease-in-out;
